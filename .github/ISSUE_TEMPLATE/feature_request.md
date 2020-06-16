@@ -3,9 +3,9 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-owner: ''
-assignees: ''
-priority: ''
+owner: Who will drive feature
+assignees: Others who will work with owner
+priority: Set by Tech TOC team
 
 ---
 
